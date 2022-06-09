@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Med On Time</string>
+    <string name="logo">Med On Time</string>
+    <string name="addEvent">Add Event</string>
+    <string name="pastEvent">Records</string>
+    <string name="aboutUs">About Us</string>
+    <string name="aboutUsHead">Soohwan Kim First Project</string>
+    <string name="aboutUsBody1">This app sets alarms for certain records that user set manually</string>
+    <string name="aboutUsBody2">User can set alarms by clicking "Add Alarm" button</string>
+    <string name="aboutUsBody3">This app also show records of past alarms</string>
+    <string name="aboutUsBody4">User can see the records by clicking "Records" button</string>
+    <string name="backToMenu">Back To Main Menu</string>
+    <string name="setDate">SET DATE</string>
+    <string name="removeLast">REMOVE LAST RECORD</string>
+    <string name="removeAll">REMOVE ALL RECORDS</string>
+    <string name="dateHint">date-month-year</string>
+    <string name="medHint">Medication name</string>
+
+
+</resources>
